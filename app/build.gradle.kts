@@ -48,6 +48,9 @@ android {
 
 dependencies {
 
+    implementation(libs.play.services.code.scanner)
+    implementation(libs.play.services.tflite.java)
+
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
