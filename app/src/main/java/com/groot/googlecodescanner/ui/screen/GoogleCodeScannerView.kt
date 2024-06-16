@@ -67,7 +67,6 @@ fun GoogleCodeScannerView(innerPadding: PaddingValues) {
         } else {
             showPlayServicesDisabledAlertDialog.value = true
         }
-
     }
 
     if (showPlayServicesDisabledAlertDialog.value) {

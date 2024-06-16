@@ -78,7 +78,7 @@ fun ClearPlayServiceCacheDialog(
         },
         text = {
             Text(
-                text = "Kindlt clear your play services data and restart the app.\nGo to Settings > Apps > Manage Apps > Google Play Services > Tap Storage usage > Tap Manage Space and than tap clear data  or  Tap Go to settings"
+                text = "Kindly clear your play services data and restart the app.\nGo to Settings > Apps > Manage Apps > Google Play Services > Tap Storage usage > Tap Manage Space and than tap clear data  or  Tap Go to settings"
             )
         })
 }
